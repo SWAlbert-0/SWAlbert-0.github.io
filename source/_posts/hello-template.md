@@ -2,4 +2,4 @@
 title: My Blog
 ---
 
-This is my blog
+右上角点击bangumis
